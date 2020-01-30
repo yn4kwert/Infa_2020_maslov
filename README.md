@@ -1,2 +1,2 @@
 # Infa_2020_maslov
-Test
+it's test project
